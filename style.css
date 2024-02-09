@@ -1,0 +1,38 @@
+body{
+    background-image: url("https://e0.pxfuel.com/wallpapers/207/425/desktop-wallpaper-doodle-art-background.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    font-family: "Honk", system-ui;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+      "MORF" 15,
+      "SHLN" 50;
+}
+h1{
+    font-size: 50px;
+    background-color: black;
+    color: lightblue;
+}
+button{
+    border-radius: 20px;
+    width: 100px;
+    height: 30px;
+    background-color: blue;
+}
+#show{
+    float: right;
+    font-size:25px;
+    height: 50px
+}
+
+canvas{
+    margin: 100px;
+    background-color: aliceblue;
+}
+h4{
+    font-size: 60px;
+}
+
